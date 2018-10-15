@@ -1,5 +1,13 @@
 define(fcuntion(require){
+	
+	var $=require("zepto");
 	var customElem=require("customElement").create();
-	return 1;
+	
+	var e=document.createElement("script");
+	e.setAttribute("src","")
+	
+	
+	
+	
 
 })
